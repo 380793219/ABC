@@ -49,7 +49,7 @@
         { "selector": ".fui-info-circle", "text": ["什么都没有"] },
         { "selector": ".fui-cross", "text": ["？"] },
         { "selector": "#tor_show", "text": ["翻页比较麻烦吗，点击可以显示这篇文章的目录呢"] },
-        { "selector": "#comment_go", "text": ["钓鱼业障重"] },
+        { "selector": "#comment_go", "text": ["钓鱼业障重！"] },
         { "selector": "#night_mode", "text": ["深夜时要爱护眼睛呀"] },
         { "selector": "#qrcode", "text": ["手机扫一下就能继续看，很方便呢"] },
         { "selector": ".comment_reply", "text": ["要吐槽些什么呢"] },
@@ -70,7 +70,7 @@
         { "selector": "c-player div.volume", "text": ["在这里可以调整<span style=\"color:#0099cc;\">音量</span>呢"] },
         { "selector": "c-player div.list-button", "text": ["<span style=\"color:#0099cc;\">播放列表</span>里都有什么呢"] },
         { "selector": "c-player div.lyric-button", "text": ["有<span style=\"color:#0099cc;\">歌词</span>的话就能跟着一起唱呢"] },
-        { "selector": ".waifu #live2d", "text": ["......", "鼠标放错地方了！"] }
+        { "selector": ".waifu #live2d", "text": ["拿你没办法..", "鼠标放错地方了！"] }
     ],
     "click": [
         {
@@ -78,6 +78,10 @@
             "text": [
                 "博士，您还有许多事情需要处理。现在还不能休息哦。",
                 "两 面 包 夹 芝 士",
+                "我们要给他形成一个 两 面 包 夹 芝 士",
+                "仙贝",
+                "派一个小绵羊过去给他烧为处理一下",
+                "军费 oceancat  懂我意吗嗯？",
                 "这 白 开 水 怎 么 没 味 儿 啊 ？",
                 "噔噔 蹬 蹬⌇●﹏●⌇",
                 "为这个 凯卡斯 凯 开 开 凯尔蒂献上心脏！！！！！！"
