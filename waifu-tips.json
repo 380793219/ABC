@@ -1,10 +1,10 @@
 {
     "waifu": {
         "console_open_msg": ["你打开了控制台，想要干什么？"],
-        "copy_message": ["你都复制了些什么呀，转载要记得加上出处哦"],
-        "screenshot_message": ["喜欢截图的人真恶心"],
-        "hidden_message": ["今天晚上吃汉堡吧"],
-        "load_rand_textures": ["没钱氪金新皮肤", "换了新皮肤奥"],
+        "copy_message": ["你都复制了些什么呀，转载要记得加上出处哦!"],
+        "screenshot_message": ["喜欢截图的人真恶心!"],
+        "hidden_message": ["今天晚上吃汉堡吧.."],
+        "load_rand_textures": ["没钱氪金新皮肤~~", "换了新皮肤奥~(๑°⌓°๑)"],
         "hour_tips": {
             "t5-7": ["早上好！白天努努力，晚上打游戏！"],
             "t7-11": ["上午好！工作顺利嘛，不要久坐，多起来走动走动哦！"],
